@@ -12,6 +12,5 @@ public class Ex1Arrays {
     {
         int[] numbers = { 11, 23 , 39, 98};
         System.out.print(Arrays.toString(numbers));
-
     }
 }
